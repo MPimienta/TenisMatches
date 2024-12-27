@@ -1,0 +1,8 @@
+UML(Zzzzzz)
+Create class Match
+Create class Player (Part of Match)
+Create class Set (Part of Match)
+Create class Referee (Part of Match ?)
+Create command classes
+Create class Game (Part of Set)
+Create class PlayerScore ? (Part of Game)
